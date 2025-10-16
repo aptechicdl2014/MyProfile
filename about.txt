@@ -1,4 +1,5 @@
 Name: Shahin
 Course: DVCS 101
 Hobbies : Swimmiing, Horse Riding.
-Fav. Color : Red, Green.
+Fav. Color : Red, Green."Contact: contact@me.com" 
+"Contact: contact@me.com" 
